@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "name": "Orbit Stack",
+    "slug": "orbit-stack",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "backgroundColor": "#4C7A7E"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": false,
+      "bundleIdentifier": "com.orbitstack.app"
+    },
+    "android": {
+      "package": "com.orbitstack.app",
+      "adaptiveIcon": {
+        "backgroundColor": "#4C7A7E"
+      }
+    }
+  }
+}
